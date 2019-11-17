@@ -1,0 +1,5 @@
+# Project exclude paths
+/nacos-consumer/target/
+/nacos-consumer-feign/target/
+/nacos-provider/target/
+/sc-gateway/target/
